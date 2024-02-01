@@ -84,7 +84,7 @@ pip install matplotlib
 
 ```import matplotlib.colors as mcolors```
 
-<img src="" width="500">
+<img src="https://github.com/ppatsea/Algorithms/blob/main/readme_p/gantt.png" width="500">
 
 
 
@@ -92,11 +92,11 @@ pip install matplotlib
 
 Από την εκτέλεση και τη σύγκριση των τριών αλγορίθμων, **NEH**, **O(n2m)** και **Tabu Search**, αντίστοιχα, προκύπτουν:
 
-<img src="" width="500">
+<img src="https://github.com/ppatsea/Algorithms/blob/main/readme_p/7.png" width="500">
 
 Από το παραπάνω γράφημα διαπιστώνεται, πως προκειμένου να εκτελεστεί κάθε αρχείο, του κάθε κώδικα, αντλείται κάποιος χρόνος. Το αποτέλεσμα είναι ο Αλγόριθμος NEH, να χρειάζεται πολύ περισσότερο χρόνο εκτέλεσης, συγκριτικά με αυτόν των άλλων δύο αλγορίθμων.
 
 
-<img src="" width="500">
+<img src="https://github.com/ppatsea/Algorithms/blob/main/readme_p/8.png" width="500">
 
 Από το παραπάνω γράφημα διαπιστώνεται, πως προκειμένου να εκτελεστεί ο κάθε κώδικας, είναι απαραίτητο κάποιο makespan. Το αποτέλεσμα είναι ο Αλγόριθμος O(n2m), να χρησιμοποιεί πολύ μεγαλύτερο makespan σε σύγκριση με τον Tabu Search (TS), που χρησιμοποιεί το λιγότερο.
